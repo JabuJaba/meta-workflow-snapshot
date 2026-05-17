@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backups / scratch
+*.bak
+*.bak.*
+*.tmp
+*.orig
+
+# Local environments
+.env
+.env.local
+venv/
+.venv/
